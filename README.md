@@ -8,3 +8,7 @@ QQ 1491594835
 b站 :追梦老弟 UID:15395390
 
 交流群：711608666
+ 
+ 本资料百度云下载链接：
+ 链接：https://pan.baidu.com/s/1nihxcjQQRsMR2V2DiILttg 
+提取码：8888
