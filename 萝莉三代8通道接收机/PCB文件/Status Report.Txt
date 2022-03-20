@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[不带sbus的8通接收机.TXT]
+   Generated File[不带sbus的8通接收机.LDP]
+   Generated File[不带sbus的8通接收机.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 下午 10:55:58 On 2022-03-19
