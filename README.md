@@ -15,6 +15,8 @@ b站 :追梦老弟 UID:15395390
 
 ![6通道接收机](D:\张乐乐\文档\GitHub\loli3_RC\萝丽3代6通道接收机\6通接收焊接图.jpg)
 
+![333]([loli3_RC/6通接收焊接图.jpg at main · zhanglele666/loli3_RC (github.com)](https://github.com/zhanglele666/loli3_RC/blob/main/萝丽3代6通道接收机/6通接收焊接图.jpg))
+
 ![不带sbus的8通道接收机](D:\张乐乐\文档\GitHub\loli3_RC\萝莉三代8通道接收机\不带sbus.png)
 
 ![改控版_遥控器主板](D:\张乐乐\文档\GitHub\loli3_RC\遥控__改控版\图.png)
