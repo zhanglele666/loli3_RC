@@ -17,16 +17,16 @@ b站 :追梦老弟 UID:15395390
 
 
 
-![不带sbus的8通道接收机](D:\张乐乐\文档\GitHub\loli3_RC\萝莉三代8通道接收机\不带sbus.png)
+![不带sbus的8通道接收机](https://github.com/zhanglele666/loli3_RC/blob/main/%E8%90%9D%E8%8E%89%E4%B8%89%E4%BB%A38%E9%80%9A%E9%81%93%E6%8E%A5%E6%94%B6%E6%9C%BA/%E4%B8%8D%E5%B8%A6sbus.png?raw=true)
 
-![改控版_遥控器主板](D:\张乐乐\文档\GitHub\loli3_RC\遥控__改控版\图.png)
+![改控版_遥控器主板](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7__%E6%94%B9%E6%8E%A7%E7%89%88/%E5%9B%BE.png?raw=true)
 
-![手柄版_遥控主板图1](D:\张乐乐\文档\GitHub\loli3_RC\遥控__手柄版\图.png)
+![手柄版_遥控主板图1](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7__%E6%89%8B%E6%9F%84%E7%89%88/%E5%9B%BE.png?raw=true)
 
-![手柄版_遥控主板图2](D:\张乐乐\文档\GitHub\loli3_RC\遥控__手柄版\图2.jpg)
+![手柄版_遥控主板图2](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7__%E6%89%8B%E6%9F%84%E7%89%88/%E5%9B%BE2.jpg?raw=true)
 
-![手柄版_遥控主板图2](D:\张乐乐\文档\GitHub\loli3_RC\遥控__手柄版\图4.jpg)
+![手柄版_遥控主板图2](https://github.com/zhanglele666/loli3_RC/blob/main/遥控__手柄版/图4.jpg?raw=true)
 
-![手柄版_遥控主板图3](D:\张乐乐\文档\GitHub\loli3_RC\遥控__手柄版\图5.jpg)
+![手柄版_遥控主板图3](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7__%E6%89%8B%E6%9F%84%E7%89%88/%E5%9B%BE5.jpg?raw=true)
 
-![手柄版_遥控主板图4](D:\张乐乐\文档\GitHub\loli3_RC\遥控__手柄版\图6.jpg)
+![手柄版_遥控主板图4](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7__%E6%89%8B%E6%9F%84%E7%89%88/%E5%9B%BE6.jpg?raw=true)
