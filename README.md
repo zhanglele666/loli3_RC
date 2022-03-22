@@ -13,7 +13,7 @@ b站 :追梦老弟 UID:15395390
 
 码云地址：[loli3_RC: 追梦版本的萝丽三代遥控器的pcb资料 (gitee.com)](https://gitee.com/zhang-leel/loli3_RC)
 
-![6通道接收机](D:\张乐乐\文档\GitHub\loli3_RC\萝丽3代6通道接收机\6通接收焊接图.jpg)
+![6通道接收机](https://github.com/zhanglele666/loli3_RC/blob/main/%E8%90%9D%E4%B8%BD3%E4%BB%A36%E9%80%9A%E9%81%93%E6%8E%A5%E6%94%B6%E6%9C%BA/6%E9%80%9A%E6%8E%A5%E6%94%B6%E7%84%8A%E6%8E%A5%E5%9B%BE.jpg?raw=true)
 
 
 
