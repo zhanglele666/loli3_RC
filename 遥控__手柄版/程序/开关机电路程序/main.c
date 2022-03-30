@@ -8,9 +8,8 @@ sbit vin=P3^0;        //检测
 u8 num,i;
 void delay10ms()		//@11.0592MHz
 {
-	unsigned char i, j;
-
-	i = 108;
+	u8 i, j;
+    i = 108;
 	j = 145;
 	do
 	{
