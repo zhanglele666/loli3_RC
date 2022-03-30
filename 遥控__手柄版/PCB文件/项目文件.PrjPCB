@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WPJAYUMI
 
 [Document2]
 DocumentPath=PCB1.PcbDoc
@@ -82,21 +82,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKMFDBFK
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 项目文件\PCB1.EXTREP
+[Document3]
+DocumentPath=PCB2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for 项目文件\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for 项目文件\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for 项目文件\PCB1.RUL
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YJNSVBCC
 
 [Configuration1]
 Name=Default Configuration
