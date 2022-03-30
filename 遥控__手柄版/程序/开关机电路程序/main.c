@@ -1,10 +1,10 @@
 #include<stc15.h>
-#include "intrins.h"			  //³¤°´¿ª¹Ø»ú³ÌĞò£¬´ø³äµç¼ì²â£¬³äµçÊ±²»Óè¿ª»ú
+#include "intrins.h"			  //é•¿æŒ‰å¼€å…³æœºç¨‹åºï¼Œå¸¦å……ç”µæ£€æµ‹ï¼Œå……ç”µæ—¶ä¸äºˆå¼€æœº
 #define u16 unsigned int
 #define u8 unsigned char
-sbit out=P3^1;	    //Êä³ö¿ØÖÆmos¹Ü
-sbit key=P3^2;		 //Çá´¥°´¼ü
-sbit vin=P3^0;        //¼ì²â
+sbit out=P3^1;	    //è¾“å‡ºæ§åˆ¶mosç®¡
+sbit key=P3^2;		 //è½»è§¦æŒ‰é”®
+sbit vin=P3^0;        //æ£€æµ‹
 u8 num,i;
 void delay10ms()		//@11.0592MHz
 {
@@ -20,7 +20,7 @@ void delay10ms()		//@11.0592MHz
 
 void main()
 {
-  P3M1=0X01;    //0000 0001   P3.2×¼Ë«Ïò¿Ú P3.1Ç¿ÍÆÍì P3.0¸ß×è 
+  P3M1=0X01;    //0000 0001   P3.2å‡†åŒå‘å£ P3.1å¼ºæ¨æŒ½ P3.0é«˜é˜» 
   P3M0=0X02;    //0000 0010
   out = 0;
   vin = 1;
@@ -44,7 +44,7 @@ while(1)
    
    else{
 		num=0;
-		PCON=0x02;  //½øÈëµôµçÄ£Ê½
+		PCON=0x02;  //è¿›å…¥æ‰ç”µæ¨¡å¼
 		_nop_();
 	    _nop_();
 	    _nop_();
