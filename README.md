@@ -9,6 +9,10 @@ b站 :追梦老弟 UID:15395390
 
 交流群：711608666
 
+3月30日： 更新了手柄版的pcb文件中的外壳装配效果
+
+![图](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7__%E6%89%8B%E6%9F%84%E7%89%88/%E5%9B%BE8.png?raw=true)
+
 
 
 码云地址：[loli3_RC: 追梦版本的萝丽三代遥控器的pcb资料 (gitee.com)](https://gitee.com/zhang-leel/loli3_RC)
