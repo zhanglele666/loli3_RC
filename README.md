@@ -15,6 +15,8 @@ b站 :追梦老弟 UID:15395390
 
 3月31日： 更新了mini版pcb文件的 直插NRF24LO1的3D模型封装
 
+![mini版](https://github.com/zhanglele666/loli3_RC/blob/main/%E9%81%A5%E6%8E%A7_mini%E7%89%88/%E5%9B%BE.png)
+
 
 
 ![tu111](%E9%81%A5%E6%8E%A7__%E6%89%8B%E6%9F%84%E7%89%88/%E5%9B%BE7.png)
